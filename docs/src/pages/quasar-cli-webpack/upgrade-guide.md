@@ -1,5 +1,5 @@
 ---
-title: Upgrade Guide for Quasar CLI with Vite
+title: Upgrade Guide for Quasar CLI with Webpack
 desc: (@quasar/app-webpack) How to upgrade Quasar CLI with Webpack from older versions to the latest one.
 scope:
   oldBexTree:
